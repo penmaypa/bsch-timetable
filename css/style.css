@@ -1,7 +1,5 @@
 
 body{
-	height: 400px;
-	padding-bottom: 2%;
 }	
 	
 .head-con{
@@ -82,11 +80,12 @@ h4{
 	}
 
 .timetable-body{
-	width: 400px;
-	height: 800px;
+	width: 100%;
 	
 	padding-left: 10%;
 	padding-right: 10%;
+	
+	overflow-x: scroll;
 }
 
 
