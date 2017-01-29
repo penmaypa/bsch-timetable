@@ -78,9 +78,13 @@ h4{
 	}
 
 .timetable-body{
+	width: 400px;
+	height: 800px;
+	
 	padding-left: 10%;
 	padding-right: 10%;
 }
+
 
 @media screen and (max-width: 980px) {
 	h1{
